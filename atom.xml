@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://egrt.github.io/</id>
     <title>Egrt</title>
-    <updated>2019-10-03T11:52:27.373Z</updated>
+    <updated>2019-10-03T12:10:27.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://egrt.github.io/"/>
     <link rel="self" href="https://egrt.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>含笑有白鹭</subtitle>
     <logo>https://egrt.github.io//images/avatar.png</logo>
     <icon>https://egrt.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Egrt</rights>
